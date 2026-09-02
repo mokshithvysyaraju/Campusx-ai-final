@@ -111,6 +111,4 @@ It calls the Anthropic API (Claude) to generate the explanation and recommendati
 **Why only 5 buildings / a handful of metrics?**
 Scope was kept deliberately small to build something that works extremely well end-to-end, rather than something broad but shallow.
 
-## License
 
-Add your license of choice here (e.g. MIT).
